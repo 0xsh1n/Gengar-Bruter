@@ -5,7 +5,7 @@
  Gengar Bruter is a tool can brute force discord user token using their user IDs
  </p> 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1175528789619511366/1183061930299105351/Screenshot_2023_1209_230513.png?ex=6586f748&is=65748248&hm=a86190a5a7dc99ea3185c61359b124da897f823005fce8e0f1a1755c24f396ff&">
+<img src="https://cdn.discordapp.com/attachments/1175528789619511366/1183067348521996390/Screenshot_2023_1209_232443.png?ex=6586fc54&is=65748754&hm=a24a7c0fe8a88b355229e1f8885fc457494ec7326cc239eeb71590988fc15f33&">
 </p>
   
  <h2>Installation</h2> 
