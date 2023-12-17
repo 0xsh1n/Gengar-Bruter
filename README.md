@@ -11,7 +11,7 @@
  <h2>Installation</h2> 
   
  ``` 
- git clone https://github.com/0xshinn/Gengar-Bruter
+ git clone https://github.com/0xsh1n/Gengar-Bruter
  cd Gengar-Bruter
  python gengar-bruter.py
  ``` 
